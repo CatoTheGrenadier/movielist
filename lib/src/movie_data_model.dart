@@ -4,7 +4,7 @@ import 'dart:io';
 import 'dart:convert';
 import 'package:path_provider/path_provider.dart';
 
-String api_key = "5763f56108dc124de419d28d03df1748";
+String api_key = "";
 
 class MovieResults{
   List<MovieItem> movies = [];
